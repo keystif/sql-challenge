@@ -1,3 +1,5 @@
+![Screenshot 2024-05-01 123545](https://github.com/keystif/sql-challenge/assets/160556651/f9df087b-2cd5-4f61-b1fa-a2cdb2ea148b)
+
 # sql-challenge
 Instructions
 This Challenge is divided into three parts: data modeling, data engineering, and data analysis.
